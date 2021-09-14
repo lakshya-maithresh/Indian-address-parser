@@ -10,7 +10,7 @@ Lakshya Gupta (lakshcool100@gmail.com)
 
 1) pdf file 'Algorithm description' describes all the steps followed to find the address and how much space was reduced in the process.
 
-2) 'keywords_new' is a python notebook file that is used to create 'keywords_head', 'keywirds_last' and 'keywords_add' files
+2) 'keywords_new' is a python notebook file that is used to create 'keywords_head', 'keywords_last' and 'keywords_add' files
    for header keywords, last keywords and additional keywords present in the address respectively.
 
 3) 'cities' is a csv file that contains two columns, city and corresponding state.
