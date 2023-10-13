@@ -5,7 +5,6 @@ and
 Lakshya Gupta (lakshcool100@gmail.com)
 
 
-
 # This code finds all the Indian addresses in any HTML file
 
 1) pdf file 'Algorithm description' describes all the steps followed to find the address and how much space was reduced in the process.
